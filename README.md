@@ -4,6 +4,7 @@
 
 This repository contains a simple demo API built with NodeJS.
 The API is used to manage users in a MongoDB database.
+The App is dockerize 
 
 ### Development
 This application was developed using [ExpressJS](http://expressjs.com/). MongoDB was used for persisting data with [Mongoose](https://mongoosejs.com/) as [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping).
@@ -108,11 +109,12 @@ password: janedoe
   "__v": 0
 }
 ```
-###### Dockerize App
+## Dockerize App
 * Install Docker on your machine
 * Open Terminal
 * RUN this command: docker-compose up --build
 
 ### Authors
 **Olajide Bolaji 'Nuel** - Software Developer at Andela (Nodejs Dev)
+
 **Abdulrahman Sulaiman** - SSP Skyline University (DevOps)
