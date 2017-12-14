@@ -1,0 +1,19 @@
+version: "2.1"
+services:
+  app:
+    container_name: app
+    restart: always
+    build: .
+    environment:
+      NODE_ENV: production
+    ports:
+      - "3000:3000"
+    links:
+      - database
+  database:
+    container_name: database
+    image: mongo
+    volumes:
+      - ./data:/data/db
+    ports:
+      - "27017:27017"

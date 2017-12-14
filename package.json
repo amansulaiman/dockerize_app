@@ -1,7 +1,7 @@
 {
-  "name": "express-api-demo",
+  "name": "alc-with-microsoft-assesment",
   "version": "1.0.0",
-  "description": "A demo using express JS to build an API.",
+  "description": "Assessment Test to dockerize nodejs App and mangodb",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -13,7 +13,7 @@
     "demo",
     "api"
   ],
-  "author": "Bolaji Olajide 'Nuel",
+  "author": "Abdulrahman Sulaiman",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.17.1",
@@ -27,10 +27,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andela-bolajide/UserManager.git"
+    "url": "git+https://github.com/amansulaiman/alc_with_microsoft.git"
   },
   "bugs": {
-    "url": "https://github.com/andela-bolajide/UserManager/issues"
+    "url": "https://github.com/amansulaiman/alc_with_microsoft/issues"
   },
-  "homepage": "https://github.com/andela-bolajide/UserManager#readme"
+  "homepage": "https://github.com/amansulaiman/alc_with_microsoft#readme"
 }
