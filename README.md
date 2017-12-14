@@ -108,8 +108,11 @@ password: janedoe
   "__v": 0
 }
 ```
+###### Dockerize App
+* Install Docker on your machine
+* Open Terminal
+* RUN this command: docker-compose up --build
 
-
-
-### Author
-**Olajide Bolaji 'Nuel** - Software Developer at Andela
+### Authors
+**Olajide Bolaji 'Nuel** - Software Developer at Andela (Nodejs Dev)
+**Abdulrahman Sulaiman** - SSP Skyline University (DevOps)
