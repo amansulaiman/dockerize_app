@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# AlcWithMicrosoft
+# Dockerize_App
 
 This repository contains a simple demo API built with NodeJS.
 The API is used to manage users in a MongoDB database.
@@ -13,7 +13,7 @@ This application was developed using [ExpressJS](http://expressjs.com/). MongoDB
 ### Installation
 * Start up your terminal (or Command Prompt on Windows OS).
 * Ensure that you've `node` installed on your PC.
-* Clone the repository by entering the command `git clone https://github.com/andela-bolajide/UserManager` in the terminal.
+* Clone the repository by entering the command `git clone https://github.com/amansulaiman/dockerize_app` in the terminal.
 * Navigate to the project folder using `cd UserManager` on your terminal (or command prompt)
 * After cloning, install the application's dependencies with the command `npm install`.
 * Create a `.env` file in your root directory as described in `.env.sample` file. Variables such as DB_URL (which must be a mongoDB URL) and PORT are defined in the .env file and it is essential you create this file before running the application.
