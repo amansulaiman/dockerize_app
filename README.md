@@ -1,9 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# User Manager
+# AlcWithMicrosoft
 
 This repository contains a simple demo API built with NodeJS.
 The API is used to manage users in a MongoDB database.
+
 The App is dockerize 
 
 ### Development
@@ -110,7 +111,7 @@ password: janedoe
 }
 ```
 ## Dockerize App
-* Install Docker on your machine
+* Install [Docker](https://store.docker.com/search?offering=community&type=edition) on your machine
 * Open Terminal
 * RUN this command: docker-compose up --build
 
