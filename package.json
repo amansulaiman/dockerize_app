@@ -1,5 +1,5 @@
 {
-  "name": "alc-with-microsoft-assesment",
+  "name": "dockerize-app",
   "version": "1.0.0",
   "description": "Assessment Test to dockerize nodejs App and mangodb",
   "main": "server.js",
@@ -27,10 +27,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amansulaiman/alc_with_microsoft.git"
+    "url": "git+https://github.com/amansulaiman/dockerize_app.git"
   },
   "bugs": {
-    "url": "https://github.com/amansulaiman/alc_with_microsoft/issues"
+    "url": "https://github.com/amansulaiman/dockerize_app/issues"
   },
-  "homepage": "https://github.com/amansulaiman/alc_with_microsoft#readme"
+  "homepage": "https://github.com/amansulaiman/dockerize_app#readme"
 }
