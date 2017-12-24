@@ -3,7 +3,6 @@ services:
   app:
     container_name: app
     restart: always
-    image: app
     build: .
     environment:
       NODE_ENV: production
